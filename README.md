@@ -5,7 +5,7 @@ Execute command:
 cd task1
 
 python main.py
-# Note change DRIVER_PATH in main.py
+-- Note change DRIVER_PATH in main.py
 
 
 
